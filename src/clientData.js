@@ -25,7 +25,7 @@ Customer Service excellence is our Passion!`,
         phone: "205-540-4214",
     },
     website: "",
-    dp: "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/449460641_3722791247957771_4935030469472823776_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=sF7sYipEQRcQ7kNvgEjOK0E&_nc_ht=scontent-sjc3-1.xx&_nc_gid=A-bQCc-AW5KvzQ1493gabcd&oh=00_AYDbtVZtmdp05_ZrWlcWjr-nuXFiMsYAblctKmviNcCIfA&oe=66D7D5DF" // Agent image URL
+    dp: "https://scontent.fpnq17-1.fna.fbcdn.net/v/t39.30808-6/273383670_316098860536990_4355348625341332987_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=XdNbUpBaM8EQ7kNvgHwaTGj&_nc_ht=scontent.fpnq17-1.fna&oh=00_AYDTtEuo9cUx7jeBysEmgcpeKXesQaCNUrE-T8zZODx85A&oe=66DA6CDA" // Agent image URL
 };
 
 export default clientData;
